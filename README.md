@@ -1,8 +1,6 @@
 <img width="867" height="674" alt="image" src="https://github.com/user-attachments/assets/9b9175dc-aaee-4046-afd0-29b77cd053ee" />
-# AvaLove
-A full-stack social platform built on Avalanche C-Chain, integrating DeFi staking, AI agents, gaming, and community features — all powered by the $AVLO token.
 <p align="center">
-  <img src="public/favicon.png" alt="https://github.com/user-attachments/assets/9b9175dc-aaee-4046-afd0-29b77cd053ee" width="80" />
+  <img src="public/favicon.png" alt="AvaLove Logo" width="80" />
 </p>
 
 <h1 align="center">AvaLove — Social DeFi Platform on Avalanche</h1>
