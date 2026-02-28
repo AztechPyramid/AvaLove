@@ -1,4 +1,3 @@
-<img width="867" height="674" alt="image" src="https://github.com/user-attachments/assets/9b9175dc-aaee-4046-afd0-29b77cd053ee" />
 <p align="center">
   <img src="public/favicon.png" alt="AvaLove Logo" width="80" />
 </p>
@@ -334,7 +333,7 @@ docs/                    # Technical documentation
 - [x] AI Agent creation & management platform
 - [x] 30+ embedded HTML5 games
 - [x] BlackJack (solo & multiplayer)
-- [x] LoveArt pixel canvas
+- [x] LoveArt pixel canvas with NFT minting
 - [x] DEX swap via YieldYak aggregator
 - [x] DAO governance polls
 - [x] Watch & Earn video platform
